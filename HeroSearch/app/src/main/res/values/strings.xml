@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">HeroSearch</string>
+    <string name="name">Name: </string>
+    <string name="name_hint">Name</string>
+    <string name="location">Location: </string>
+    <string name="location_hint">Location</string>
+    <string name="register">Register</string>
+    <string name="register_header">New Account Details</string>
+    <string name="registration_confirmed">You\'re All Set!</string>
+    <string name="proceed">Proceed</string>
+    <string name="log_out">Log Out</string>
+    <string name="need_hero">I Need a Hero</string>
+    <string name="be_hero">Be the Hero</string>
+    <string name="calls_answered">Calls Answered by You</string>
+    <string name="your_calls">Calls Made by You</string>
+    <string name="why_call">Why Do You Need a Hero?</string>
+    <string name="response_location">Where is a Hero Needed?</string>
+    <string name="description">Call Description</string>
+    <string name="call_headline">Call Headline: </string>
+    <string name="terms_conditions">I agree to enable location tracking once a hero answers my call</string>
+    <string name="submit">Submit</string>
+    <string name="answer_call">Answer the Call</string>
+    <string name="call_id">Call ID: </string>
+    <string name="call_category">Call Category: </string>
+    <string name="call_location">Call Location: </string>
+    <string name="caller_name">Caller Name: </string>
+    <string name="answering_heroes">Answering Heroes: </string>
+    <string name="date">mm/dd/yyyy</string>
+    <string name="time">00:00</string>
+    <string name="call_deadline">Response Deadline: </string>
+    <string name="call_description">Call Description: </string>
+    <string name="caller_id">Caller ID: </string>
+    <string name="respond_to_call">Respond to Call</string>
+    <string name="message">Send a Message to Caller</string>
+    <string name="view_map">View in Map</string>
+
+    <string-array name="call_categories">
+        <item>Directions</item>
+        <item>Repair</item>
+        <item>Emergency</item>
+        <item>Other</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+</resources>

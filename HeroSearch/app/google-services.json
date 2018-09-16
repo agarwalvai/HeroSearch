@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "271791558260",
+    "firebase_url": "https://herosearch-c5b8d.firebaseio.com",
+    "project_id": "herosearch-c5b8d",
+    "storage_bucket": "herosearch-c5b8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271791558260:android:c350e28436304780",
+        "android_client_info": {
+          "package_name": "com.example.david.herosearch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271791558260-kgtjlvsr9lambv7l730pkvrcvub8dagp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.david.herosearch",
+            "certificate_hash": "9a8c7fafef5ef6bde5677d5a207966852c98f3f8"
+          }
+        },
+        {
+          "client_id": "271791558260-mte6ntsncjk9vur8jf9c77jnf5bpogpt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxYYzSVUInqzWvKmP7pIUwN4MMV-7Tuvw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271791558260-mte6ntsncjk9vur8jf9c77jnf5bpogpt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
